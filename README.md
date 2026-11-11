@@ -2,6 +2,14 @@
 
 A small HTML and CSS project that builds a colorful city skyline from styled elements and gradients. It demonstrates how CSS can create a visual scene and use a media query to respond to viewport width.
 
+## Project origin
+
+<a href="https://www.freecodecamp.org/learn/">
+  <img src="https://raw.githubusercontent.com/matwal42083/myPortfolio/main/src/assets/images/freeCodeCampLogo.jpg" alt="freeCodeCamp logo" width="150">
+</a>
+
+This project was created as part of my freeCodeCamp coursework.
+
 ## View the page
 
 Open [`port_1/portInd.html`](port_1/portInd.html) in a web browser. The page links to its stylesheet in the same directory, so no build tools or dependencies are required.
